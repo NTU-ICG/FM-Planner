@@ -1,4 +1,4 @@
-# FM-Planner
+# FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation
 ## Introduction
 This is for the paper FM-Planner: Foundation Model Guided Path Planning for Autonomous Drone Navigation. If you are interested, please give us a star ⭐ on GitHub and cite our work to support us. 🙏🙏
 
