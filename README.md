@@ -27,15 +27,14 @@ Path planning is a critical component in autonomous drone operations, enabling s
 ### LLM-planner vs. VLM-planner 
 <img src="https://github.com/user-attachments/assets/3d4fc807-0bbf-4b75-a91b-6dd68f5e7423" width="800" />
 
+### LLM-Vision-planner 
+<img src="https://github.com/user-attachments/assets/33f854ad-1652-473e-b5d3-f9126fddc2d4" width="800" />
+
 ## Updates
 Code will be released after the review process is complete.
 
 ## Contact
-
 Dr. Jiaping Xiao: jiaping001@e.ntu.edu.sg
-
-### LLM-Vision-planner 
-<img src="https://github.com/user-attachments/assets/33f854ad-1652-473e-b5d3-f9126fddc2d4" width="800" />
 
 
 
